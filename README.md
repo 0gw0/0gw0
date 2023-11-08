@@ -4,15 +4,15 @@
 
 <!-- Vicky: Your Colourblind Assistant -->
 <p align="center">
-  <a href="https://vicky-nine.vercel.app/">
-      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" target=”_blank” />
+  <a href="https://vicky-nine.vercel.app/"  target=”_blank”>
+      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
 </p>
 
 <!-- Revente -->
 <p align="center">
-  <a href="https://smu-wad2.web.app/">
-      <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=vue.js" target=”_blank” />
+  <a href="https://smu-wad2.web.app/"  target=”_blank”>
+      <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=vue.js" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/glen-wangsanegara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glen-wangsanegara" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/glen-wangsanegara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glen-wangsanegara" height="30" width="40" /></a>
 </p>
 <hr />
 <!--https://github.com/anuraghazra/github-readme-stats/#language-card-exclusive-options-->
