@@ -5,14 +5,14 @@
 <!-- Vicky: Your Colourblind Assistant -->
 <p align="center">
   <a href="https://vicky-nine.vercel.app/">
-      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" target=”_blank” />
   </a>
 </p>
 
 <!-- Revente -->
 <p align="center">
   <a href="https://smu-wad2.web.app/">
-      <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=vue.js" />
+      <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=vue.js" target=”_blank” />
   </a>
 </p>
 
