@@ -2,10 +2,10 @@
 
 <h3 align="center">I'm passionate about learning Cloud computing and Fintech</h3>
 
-<!-- Vicky: Your Colourblind Assistant -->
+<!-- Portfolio Website -->
 <p align="center">
-  <a href="https://vicky-nine.vercel.app/"  target=”_blank”>
-      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
+  <a href="https://glen-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio_Website-black?style=flat-square&logo=react" />
   </a>
 </p>
 
@@ -13,6 +13,13 @@
 <p align="center">
   <a href="https://smu-wad2.web.app/"  target=”_blank”>
       <img src="https://img.shields.io/badge/-Revent%C3%A9_Ecommerce_website-black?style=flat-square&logo=vue.js" />
+  </a>
+</p>
+
+<!-- Vicky: Your Colourblind Assistant -->
+<p align="center">
+  <a href="https://vicky-nine.vercel.app/"  target=”_blank”>
+      <img src="https://img.shields.io/badge/-Ellipsis_Tech_Series_2023_Hackathon-black?style=flat-square&logo=react" />
   </a>
 </p>
 
